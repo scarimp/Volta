@@ -23,22 +23,22 @@ Programma Corso
     
     4.2 Cenni su Linux e Raspbian
     
-3. Python e micro devices a basso consumo.
+5. Python e micro devices a basso consumo.
 
-   3.1 Cenni su Internet of Things (IOT)
+   5.1 Cenni su Internet of Things (IOT)
 
-5. Reti wireless.
+6. Reti wireless.
    
    5.1 Analisi-visualizzazione di Time Series di misure prodotte da
    sensori temp./press su reti Sigfox [Visualizza](https://snapshot.raintank.io/dashboard/snapshot/iXbHm59EcolzSdMbIF68qpcocZyL84cy).
    
    E' un classico progetto IOT , per una serie di misure prodotte da una stazione meteo.   Tali misure vengono spedite su una piattaforma Influxdb che fa da Data Source a [Grafana](https://grafana.com/dashboards)
 
-6. Servizi di Smart Metering su reti- wireless non proprietarie.
+7. Servizi di Smart Metering su reti- wireless non proprietarie.
    
-   6.1 [The Things Network](https://www.thethingsnetwork.org/)   **rete IOT** nata in Europa basata su protocollo/specifiche LORAWAN
+   7.1 [The Things Network](https://www.thethingsnetwork.org/)   **rete IOT** nata in Europa basata su protocollo/specifiche LORAWAN
    
-   6.2 L'utilizzo di reti "libere" (863 to 870 MHz) [LORA](https://iot-daily.com/2015/03/18/frequency-bands-optimal-for-the-internet-of-things/)
+   7.2 L'utilizzo di reti "libere" (863 to 870 MHz) [LORA](https://iot-daily.com/2015/03/18/frequency-bands-optimal-for-the-internet-of-things/)
 
 
 
