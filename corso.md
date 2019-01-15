@@ -30,7 +30,7 @@ Programma Corso
    5.1 Analisi-visualizzazione di Time Series di misure prodotte da
    sensori temp./press su reti Sigfox [Visualizza](https://snapshot.raintank.io/dashboard/snapshot/iXbHm59EcolzSdMbIF68qpcocZyL84cy).
    
-   E' un classico progetto IOT , per una serie di misure prodotte da una stazione meteo.   Tali misure vengono spedite su una piattaforma Influxdb che fa da Data Source a Grafana
+   E' un classico progetto IOT , per una serie di misure prodotte da una stazione meteo.   Tali misure vengono spedite su una piattaforma Influxdb che fa da Data Source a [Grafana](https://grafana.com/dashboards)
 
 6.
 
