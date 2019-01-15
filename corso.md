@@ -12,7 +12,9 @@ Programma Corso
 3. Introduzione al Machine Learning.
 3. Reti combinatorie , reti sequenziali, macchine a stato finito .
 
-   3.1 Reti neurali
+   3.1 Costruzione di una rete neurale di un circuito combinatorio.
+   
+   3.2 Il caso XOR.
    
 
 4. Python e Raspberry PI.
@@ -32,7 +34,15 @@ Programma Corso
    
    E' un classico progetto IOT , per una serie di misure prodotte da una stazione meteo.   Tali misure vengono spedite su una piattaforma Influxdb che fa da Data Source a [Grafana](https://grafana.com/dashboards)
 
-6.
+6. Servizi di Smart Metering su reti- wireless non proprietarie.
+   
+   6.1 [The Things Network](https://www.thethingsnetwork.org/)   **rete IOT** nata in Europa basata su protocollo/specifiche LORAWAN
+   
+   6.2 L'utilizzo di reti "libere" (863 to 870 MHz) [LORA](https://iot-daily.com/2015/03/18/frequency-bands-optimal-for-the-internet-of-things/)
+
+6. Collegamento device Raspberry 3 con  [The Things Network](https://www.thethingsnetwork.org/)   **rete IOT** nata in Europa basata su protocollo/specifiche LORAWAN.L'utilizzo di reti "libere" (863 to 870 MHz) [LORA](https://iot-daily.com/2015/03/18/frequency-bands-optimal-for-the-internet-of-things/), permette attualmente di effettuare servizi di Smart Metering su reti- wireless non proprietarie.
+
+7.
 
 
 In particolar modo per i docenti 
