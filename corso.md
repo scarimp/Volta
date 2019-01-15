@@ -11,6 +11,7 @@ Programma Corso
 2. L'ambiente di sviluppo Jupyter.
 3. Introduzione al Machine Learning.
 3. Reti combinatorie , macchine a stato finito.
+
    3.1 Reti neurali
    
 
