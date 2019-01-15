@@ -9,7 +9,7 @@ Programma Corso
 
 1. Introduzione a Python.
 2. L'ambiente di sviluppo Jupyter.
-3. Introduzione al Machine Learning.
+3. Introduzione al [Machine Learning](https://ml4a.github.io/guides/).
 3. Reti combinatorie , reti sequenziali, macchine a stato finito .
 
    3.1 Costruzione di una rete neurale di un circuito combinatorio.
