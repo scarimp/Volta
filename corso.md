@@ -40,7 +40,7 @@ Programma Corso
    
    6.2 L'utilizzo di reti "libere" (863 to 870 MHz) [LORA](https://iot-daily.com/2015/03/18/frequency-bands-optimal-for-the-internet-of-things/)
 
-7. Collegamento device Raspberry 3 con  [The Things Network](https://www.thethingsnetwork.org/)   **rete IOT** nata in Europa basata su protocollo/specifiche LORAWAN.L'utilizzo di reti "libere" (863 to 870 MHz) [LORA](https://iot-daily.com/2015/03/18/frequency-bands-optimal-for-the-internet-of-things/), permette attualmente di effettuare servizi di Smart Metering su reti- wireless non proprietarie.
+
 
 
 
