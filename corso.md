@@ -10,7 +10,7 @@ Programma Corso
 1. Introduzione a Python.
 2. L'ambiente di sviluppo Jupyter.
 3. Introduzione al Machine Learning.
-3. Reti combinatorie , macchine a stato finito.
+3. Reti combinatorie , reti sequenziali, macchine a stato finito .
 
    3.1 Reti neurali
    
@@ -19,9 +19,10 @@ Programma Corso
 
     4.1 Computer Vision
     
-    4.2 Cenni su Linux
+    4.2 Cenni su Linux e Raspbian
     
 3. Python e micro devices a basso consumo.
+
    3.1 Cenni su Internet of Things (IOT)
 
 5. Reti wireless.
