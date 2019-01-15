@@ -15,9 +15,13 @@ Programma Corso
    
 
 4. Python e Raspberry PI.
+
     4.1 Computer Vision
+    
     4.2 Cenni su Linux
+    
 3. Python e devices 
+
 5. Reti wireless.
 
 
