@@ -28,7 +28,7 @@ Programma Corso
 5. Reti wireless.
    
    5.1 Analisi-visualizzazione di Time Series di misure prodotte da
-   sensori temp./press su reti Sigfox. E' un classico progetto IOT , per una serie di misure prodotte da una stazione meteo.   Tali misure vengono spedite su una piattaforma Influxdb che fa da Data Source a Grafana
+   sensori temp./press su reti Sigfox.((https://snapshot.raintank.io/dashboard/snapshot/iXbHm59EcolzSdMbIF68qpcocZyL84cy)) E' un classico progetto IOT , per una serie di misure prodotte da una stazione meteo.   Tali misure vengono spedite su una piattaforma Influxdb che fa da Data Source a Grafana
 
 6.
 
