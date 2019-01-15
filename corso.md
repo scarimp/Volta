@@ -4,20 +4,22 @@ Corso su python.
 
 Gentile Signora Preside,
 
-desidero proporLe un Corso che fornisca ai colleghi e , soptrattutto agli studenti, una visione unificante delle attuali tecnologie unificandole con un linguaggio (Python) che attualmento svolge questo compito ad un livello facilmente accessibile a colleghi e studenti.
+desidero proporLe un Corso che fornisca ai colleghi e , soptrattutto agli studenti, una visione unificante delle attuali tecnologie unificandole con un linguaggio (Python),  che attualmento svolge questo compito ad un livello facilmente accessibile a colleghi e studenti.
 
-In particolar modo per i docenti
+In particolar modo per i docenti 
 
 Computer vision 
 Tasformate di Laplace
 
+1. 
 
 
 
 
 
 
-1. (2015-2016) Analisi-visualizzazione  di **Time Series** su Grafana [sensori temp./press.-anders_sigfox](https://snapshot.raintank.io/dashboard/snapshot/iXbHm59EcolzSdMbIF68qpcocZyL84cy). E' un classico progetto  IOT , per una serie di misure prodotte da  una stazione meteo. Tali misure vengono spedite su una piattaforma [Influxdb](https://www.influxdata.com/developers/) che fa da Data Source a [Grafana](https://grafana.com/dashboards).
+
+2. (2015-2016) Analisi-visualizzazione  di **Time Series** su Grafana [sensori temp./press.-anders_sigfox](https://snapshot.raintank.io/dashboard/snapshot/iXbHm59EcolzSdMbIF68qpcocZyL84cy). E' un classico progetto  IOT , per una serie di misure prodotte da  una stazione meteo. Tali misure vengono spedite su una piattaforma [Influxdb](https://www.influxdata.com/developers/) che fa da Data Source a [Grafana](https://grafana.com/dashboards).
 
     1.1
     
