@@ -26,6 +26,11 @@ Programma Corso
    3.1 Cenni su Internet of Things (IOT)
 
 5. Reti wireless.
+   
+   5.1 Analisi-visualizzazione di Time Series di misure prodotte da
+   sensori temp./press su reti Sigfox. E' un classico progetto IOT , per una serie di misure prodotte da una stazione meteo.   Tali misure vengono spedite su una piattaforma Influxdb che fa da Data Source a Grafana
+
+6.
 
 
 In particolar modo per i docenti 
