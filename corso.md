@@ -2,7 +2,24 @@
 
 Gentile Signora Preside,
 
-desidero proporLe un Corso che fornisca ai colleghi e , soprattutto agli studenti, una visione unificante delle attuali tecnologie unificandole con un linguaggio (Python),  che attualmento svolge questo compito ad un livello facilmente accessibile a colleghi e studenti.
+desidero proporLe un Corso per i docenti della classe di concorso A040 (elettronica). che fornisca ai colleghi e , soprattutto agli studenti, una visione  delle attuali tecnologie unificandole con un linguaggio (Python),  che attualmento svolge questo compito ad un livello facilmente accessibile a colleghi e studenti.
+
+
+Programma Corso
+
+1. Introduzione a Python.
+2. L'ambiente di sviluppo Jupyter.
+3. Introduzione al Machine Learning.
+3. Reti combinatorie , macchine a stato finito.
+   3.1 Reti neurali
+   
+
+4. Python e Raspberry PI.
+    4.1 Computer Vision
+    4.2 Cenni su Linux
+3. Python e devices 
+5. Reti wireless.
+
 
 In particolar modo per i docenti 
 
