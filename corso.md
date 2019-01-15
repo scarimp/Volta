@@ -20,7 +20,8 @@ Programma Corso
     
     4.2 Cenni su Linux
     
-3. Python e devices 
+3. Python e micro devices a basso consumo.
+   3.1 Cenni su Internet of Things (IOT)
 
 5. Reti wireless.
 
