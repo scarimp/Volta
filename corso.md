@@ -10,35 +10,35 @@ Programma Corso
 1. Introduzione a Python.
 2. L'ambiente di sviluppo Jupyter.
 3. Introduzione al [Machine Learning](https://ml4a.github.io/guides/).
-3. Reti combinatorie , reti sequenziali, macchine a stato finito .
+4. Reti combinatorie , reti sequenziali, macchine a stato finito .
 
-   3.1 Costruzione di una rete neurale di un circuito combinatorio.
+   4.1 Costruzione di una rete neurale di un circuito combinatorio.
    
-   3.2 Il caso XOR.
+   4.2 Il caso XOR.
    
 
-4. Python e Raspberry PI.
+5. Python e Raspberry PI.
 
-    4.1 Computer Vision
+    5.1 Computer Vision
     
-    4.2 Cenni su Linux e Raspbian
+    5.2 Cenni su Linux e Raspbian
     
-5. Python e micro devices a basso consumo.
+6. Python e micro devices a basso consumo.
 
-   5.1 Cenni su Internet of Things (IOT)
+   6.1 Cenni su Internet of Things (IOT)
 
-6. Reti wireless.
+7. Reti wireless.
    
-   5.1 Analisi-visualizzazione di Time Series di misure prodotte da
+   7.1 Analisi-visualizzazione di Time Series di misure prodotte da
    sensori temp./press su reti Sigfox [Visualizza](https://snapshot.raintank.io/dashboard/snapshot/iXbHm59EcolzSdMbIF68qpcocZyL84cy).
    
    E' un classico progetto IOT , per una serie di misure prodotte da una stazione meteo.   Tali misure vengono spedite su una piattaforma Influxdb che fa da Data Source a [Grafana](https://grafana.com/dashboards)
 
-7. Servizi di Smart Metering su reti- wireless non proprietarie.
+8. Servizi di Smart Metering su reti- wireless non proprietarie.
    
-   7.1 [The Things Network](https://www.thethingsnetwork.org/)   **rete IOT** nata in Europa basata su protocollo/specifiche LORAWAN
+   8.1 [The Things Network](https://www.thethingsnetwork.org/)   **rete IOT** nata in Europa basata su protocollo/specifiche LORAWAN
    
-   7.2 L'utilizzo di reti "libere" (863 to 870 MHz) [LORA](https://iot-daily.com/2015/03/18/frequency-bands-optimal-for-the-internet-of-things/)
+   8.2 L'utilizzo di reti "libere" (863 to 870 MHz) [LORA](https://iot-daily.com/2015/03/18/frequency-bands-optimal-for-the-internet-of-things/)
 
 
 
