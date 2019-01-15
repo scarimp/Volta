@@ -1,10 +1,8 @@
 
 
-Corso su python.
-
 Gentile Signora Preside,
 
-desidero proporLe un Corso che fornisca ai colleghi e , soptrattutto agli studenti, una visione unificante delle attuali tecnologie unificandole con un linguaggio (Python),  che attualmento svolge questo compito ad un livello facilmente accessibile a colleghi e studenti.
+desidero proporLe un Corso che fornisca ai colleghi e , soprattutto agli studenti, una visione unificante delle attuali tecnologie unificandole con un linguaggio (Python),  che attualmento svolge questo compito ad un livello facilmente accessibile a colleghi e studenti.
 
 In particolar modo per i docenti 
 
