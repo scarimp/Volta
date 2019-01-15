@@ -2,7 +2,7 @@
 
 Gentile Signora Preside,
 
-desidero proporLe un Corso  (a titolo gratuito) per i docenti della classe di concorso A040 (elettronica). che fornisca ai colleghi e , soprattutto agli studenti, una visione  delle attuali tecnologie IOT unificandole con un linguaggio (Python),  che attualmento svolge questo compito ad un livello facilmente accessibile a colleghi e studenti.
+desidero proporLe un Corso  (a titolo gratuito) per i docenti della classe di concorso A040 (elettronica). che fornisca ai colleghi e , soprattutto agli studenti, una visione  delle attuali tecnologie [IOT](https://it.wikipedia.org/wiki/Internet_delle_cose) unificandole con un linguaggio (Python),  che attualmento svolge questo compito ad un livello facilmente accessibile a colleghi e studenti.
 
 Programma Corso
 -----------------
