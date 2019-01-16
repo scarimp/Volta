@@ -4,6 +4,9 @@ Gentile Prof.ssa Paola Vigoroso,
 
 desidero proporLe un Corso  (a titolo gratuito) per i docenti della classe di concorso A040 (elettronica). Tale corso vuole  fornire ai colleghi  una visione  delle attuali tecnologie [IOT](https://it.wikipedia.org/wiki/Internet_delle_cose) usando un paradigma comune di sviluppo. Il linguaggio Python,  svolge  attualmente, a giudizio dello scrivente, questo compito ad un livello facilmente accessibile a colleghi  di un ITIS .
 
+Cordiali saluti
+Prof. Francesco Luzio
+
 Al Dirigente Scolastico Istituto di Istruzione Superiore "Via Silvestri 301" Roma.
 
 Prof.ssa Paola Vigoroso
@@ -46,9 +49,9 @@ Programma Corso di aggiornamento
 
 
 
-         Roma 16-01-2019   
+Roma 16-01-2019   
          
-         Prof. Francesco Luzio
+                                                                                    Prof. Francesco Luzio
 
 
 
