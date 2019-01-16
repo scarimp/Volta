@@ -2,10 +2,14 @@
 
 Gentile Signora Preside,
 
-desidero proporLe un Corso  (a titolo gratuito) per i docenti della classe di concorso A040 (elettronica). Tale corso vuole  fornire ai colleghi e , soprattutto agli studenti, una visione  delle attuali tecnologie [IOT](https://it.wikipedia.org/wiki/Internet_delle_cose) usando un paradigma comune. Il linguaggio Python,  svolge  attualmente,a giudizio dello scrivente, questo compito ad un livello facilmente accessibile a colleghi e studenti di un ITIS .
+desidero proporLe un Corso  (a titolo gratuito) per i docenti della classe di concorso A040 (elettronica). Tale corso vuole  fornire ai colleghi  una visione  delle attuali tecnologie [IOT](https://it.wikipedia.org/wiki/Internet_delle_cose) usando un paradigma comune di sviluppo. Il linguaggio Python,  svolge  attualmente, a giudizio dello scrivente, questo compito ad un livello facilmente accessibile a colleghi  di un ITIS .
 
-Programma Corso
------------------
+Al Dirigente Scolastico Istituto di Istruzione Superiore "Via Silvestri 301" Roma.
+
+Prof.ssa Paola Vigoroso
+
+Programma Corso di aggiornamento
+--------------------------------
 
 1. Introduzione a Python.
 2. L'ambiente di sviluppo Jupyter.
